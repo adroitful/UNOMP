@@ -1,0 +1,6 @@
+{
+    "name": "Pioneer Coin",
+    "symbol": "PCOIN",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}
